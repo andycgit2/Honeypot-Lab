@@ -89,3 +89,6 @@ _GetWatchlist(“geoip”)
 - “Add query” in the workbook and select “Advanced Editor”.
 - Remove all content and paste your json. Click “Done Editing” when finished.
 - Save your workbook.
+
+## Finished Product
+See attached documents to view the attack map after 24 hours of nonstop RDP Brute Force Attacks and where they came from. Also, see resources used.
