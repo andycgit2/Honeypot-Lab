@@ -1,7 +1,7 @@
 # Honeypot-Lab
 
 ## Mission:
-Create a virtual machine using Microsoft Azure that allows all incoming traffic from all ports to capture and visualize location information from RDP Brute Force Attacks using the Microsoft Sentinel SIEM tool.
+Create a virtual machine using Microsoft Azure that allows all incoming traffic to capture and visualize geolocation data from RDP Brute Force Attacks using the Microsoft Sentinel SIEM tool.
 
 ## Steps:
 1.	Create a Microsoft Azure account.
